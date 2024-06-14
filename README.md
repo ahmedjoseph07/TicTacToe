@@ -1,7 +1,2 @@
-#Teacher
-
-Jospeh ahmed
-
-#Student
-
-Delta student 
+This is a TicTacToe game..
+Enjoy the game..
